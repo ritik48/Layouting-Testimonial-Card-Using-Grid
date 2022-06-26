@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/ritik48/Layouting-Testimonial-Card-Using-Grid
+- Live Site URL: https://ritik48.github.io/Layouting-Testimonial-Card-Using-Grid/
 
 ## My process
 
